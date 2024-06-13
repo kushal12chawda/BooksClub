@@ -1,0 +1,10 @@
+bookrequest_issue_date,bookrequest_return_date,user_fk,book_fk,bookrequest_status,book_status,book_rating
+2024-04-15,2024-05-10,3,2,issued,current,2
+2024-04-15,2024-05-10,2,1,issued,completed,0
+2024-04-15,2024-05-13,2,3,issued,current,0
+2024-04-15,2024-04-29,2,2,issued,current,3
+2024-04-15,2024-05-13,2,4,issued,current,5
+2024-04-15,2024-05-06,2,12,issued,current,4
+2024-04-16,2024-05-14,1,1,issued,current,4
+2024-04-16,2024-04-30,1,2,issued,completed,1
+2024-04-16,2024-04-23,1,11,returned,completed,0
